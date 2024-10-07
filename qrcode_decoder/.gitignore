@@ -1,0 +1,13 @@
+.venv
+images/*
+split_images/*
+*.mov
+*.MOV
+.DS_Store
+__pycache__
+.vscode
+processed/*
+split_images/*
+evaluation/*
+``
+```

@@ -1,0 +1,18 @@
+file_name,mean_difference,jitter
+res-high_net-low_cs-mjpeg.mov.csv,-2023,254
+res-high_net-mid_mjpeg-ws-own.mov.csv,-564,44
+res-low_net-low_cs-mjpeg.mov.csv,-436,38
+res-low_net-low_ws-own.mov.csv,-431,45
+jsmpeg.mov.csv,-164,22
+res-high_net-high_cs-webrtc.mov.csv,-143,19
+res-high_net-low_cs-webrtc.mov.csv,-143,19
+res-high_net-high_mjpeg-ws-own.mov.csv,-137,18
+shutter_cam_webrtc.mov.csv,-133,15
+Screen Recording 2023-11-21 at 21.05.47.mov.csv,-119,19
+res-high_net-high_cs-mjpeg.mov.csv,-117,17
+res-low_net-low_cs-webrtc.mov.csv,-105,17
+res-low_net-high_cs-webrtc.mov.csv,-101,16
+visionline.mov.csv,-94,20
+res-low_net-high_cs-mjpeg.mov.csv,-80,14
+res-low_net-40mbps_ws-own.mov.csv,-77,13
+test-new-cam.mov.csv,-73,15

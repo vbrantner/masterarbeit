@@ -1,0 +1,8 @@
+websockets
+opencv-python
+flask
+flask_cors
+aiortc
+flask-socketio
+PyTurboJPEG
+av
