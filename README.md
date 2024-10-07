@@ -1,4 +1,4 @@
-# Video-Streaming-Dienste für Webbrowser
+# Webbrowser Streaming
 
 ## Struktur
 
